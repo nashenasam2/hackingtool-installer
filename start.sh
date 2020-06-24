@@ -25,6 +25,6 @@ exit
 elif [[ $menu == 4 ]];
 then
 echo "Updating Tool..."
-git clone https://github.com/BotNetX666/hackingtoolinstaller 
+git clone https://github.com/BotNetX666/hackingtool-installer 
 
 fi
