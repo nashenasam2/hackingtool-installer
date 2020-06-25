@@ -1,3 +1,2 @@
 # hackingtool-installer
-Hacking Tool Installer For Kali/Termux
-
+Hacking Tool Installer For Kali Linux 
